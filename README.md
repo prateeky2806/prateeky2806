@@ -9,15 +9,15 @@ Over the past few years, I have been fortunate to work with [Prof. Partha Talukd
 <p align="center">
   
   <a align="center" href="https://github.com/malllabiisc/WordGCN">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=malllabiisc&repo=WordGCN&show_owner=true"/>
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=malllabiisc&repo=WordGCN&show_owner=false"/>
   </a>
   
   <a align="center" href="https://github.com/malllabiisc/HyperGCN">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=malllabiisc&repo=HyperGCN&show_owner=true"/>
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=malllabiisc&repo=HyperGCN&show_owner=false"/>
   </a>
   
   <a align="center" href="https://github.com/prateeky2806/EMC-COLS-recourse">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=prateeky2806&repo=EMC-COLS-recourse&show_owner=true"/>
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=prateeky2806&repo=EMC-COLS-recourse&show_owner=false"/>
   </a>
   
   <a align="center" href="https://github.com/swarnaHub/ExplaGraphs">
@@ -29,11 +29,11 @@ Over the past few years, I have been fortunate to work with [Prof. Partha Talukd
   </a>
   
   <a align="center" href="https://github.com/malllabiisc/ConfGCN">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=malllabiisc&repo=ConfGCN&show_owner=true"/>
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=malllabiisc&repo=ConfGCN&show_owner=false"/>
   </a>
   
   <a align="center" href="https://github.com/malllabiisc/lcn">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=malllabiisc&repo=lcn&show_owner=true"/>
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=malllabiisc&repo=lcn&show_owner=false"/>
   </a>
 
 </p>
